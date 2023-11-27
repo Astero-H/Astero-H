@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Astero-H,
-- 👀 I’m interested in web development, architectures and new concepts 
-- 💞️ I’m looking to collaborate on ... something cool
+- 👀 I’m a PHP developer
 
 <!---- 📫 How to reach me ? easiest way is 
 Astero-H/Astero-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
